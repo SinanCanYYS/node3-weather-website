@@ -1,4 +1,4 @@
-console.log('Client side JavaScript file is loaded!')
+console.log('Client side JavaScript file is loaded! - try')
 
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
